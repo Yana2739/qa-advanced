@@ -1,3 +1,3 @@
-// test.js
-const foo = 1
-console.log(foo)
+// testJs/test.js
+const a=1
+console.log(a)
